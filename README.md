@@ -69,6 +69,8 @@ Then, place the file in the `p2_continuous-control/` folder in the DRLND GitHub 
 
 ### Conclusion 
 
+Expected reward averaged over iterations
+
 ![score][ddpg]
 
 
