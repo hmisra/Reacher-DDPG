@@ -4,7 +4,7 @@
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
 [ddpg]: https://github.com/hmisra/Reacher-DDPG/blob/master/ddpg.png
 
-# Continuous Control
+# Continuous Control of Double Joint Arm to Reach a target
 
 ### Introduction
 
